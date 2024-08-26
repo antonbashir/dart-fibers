@@ -17,6 +17,8 @@ main -> child -> main -> child
 after start
 ```
 
+![](download.gif)
+
 ## What is next ?
 
 * I'm going to support JIT mode (complicated)
