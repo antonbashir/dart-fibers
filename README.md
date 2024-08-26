@@ -21,5 +21,6 @@ after start
 
 * I'm going to support JIT mode (complicated)
 * I'm going to support sync and async fibers (already working but need to add API)
+* Tests and Benches
 * JS ? Not sure.
 * Upstream ? Maybe.
