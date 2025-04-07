@@ -24,7 +24,7 @@ after start
 ## What is next ?
 
 * Implement JIT mode
-* Implement other architectures
+* Implement other architectures (arm64 + riscv) and platforms (macos + windows)
 * Implement channels
 * Implement FFI
 * Implement `async`
