@@ -19,12 +19,13 @@ main -> child -> main -> child
 after start
 ```
 
-![](download.gif)
+![](fibers.gif)
 
 ## What is next ?
 
 * Implement JIT mode
 * Implement other architectures
+* Implement `async`
 * Implement `async`
 * Optimize
 * Add more tests and benchmarks
