@@ -25,7 +25,8 @@ after start
 
 * Implement JIT mode
 * Implement other architectures
-* Implement `async`
+* Implement channels
+* Implement FFI
 * Implement `async`
 * Optimize
 * Add more tests and benchmarks
