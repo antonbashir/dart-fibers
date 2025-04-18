@@ -28,7 +28,7 @@ after start
 * Implement other architectures (arm64 + riscv) and platforms (macos + windows)
 * Implement channels
 * Implement FFI
-* Implement `async`
+* Implement `Future` and `Timer` support during coroutine idle
 * Optimize
 * Add more tests and benchmarks
 * Support `JS` and `WASM` ?
